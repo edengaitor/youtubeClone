@@ -1,0 +1,192 @@
+p {
+    font-family: sans-serif;
+}
+
+h3{
+    font-family: sans-serif;  
+}
+
+h4{
+    font-family: sans-serif;  
+}
+
+.nav-bar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.background {
+    background-color: #FAF9F6;
+    display: flex;
+    padding-top: 35px;
+}
+
+
+
+.container{
+    
+}
+
+.video-section{
+    width: 52%;
+}
+
+.preview-list {
+    width: 57%;
+    margin-left: -20px;
+}
+
+.description-area{
+    display: flex;
+    padding-left: 150px;
+    width: 168%;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.logo {
+    width: 100px;
+    height: 35px;
+}
+
+.nav-icon {
+    width: 35px;
+    height: 35px;
+}
+
+.search {
+    
+}
+
+.search-bar {
+    width: 600px;
+    height: 35px;
+}
+
+.eclipse{
+    width: 20px;
+    height: 20px;
+}
+
+.youtube-channel{
+    width: 50x;
+    height: 50px;
+}
+
+.sort{
+    width: 25x;
+    height: 25px;
+    margin-right: 10px;
+    align-self: center;
+    margin-left: 20px;
+}
+
+.user-profile{
+    width: 45px;
+    height: 45px;
+}
+
+.video{
+    padding-left: 150px;
+}
+
+.video-icons{
+    padding-left: 150px;
+    width: 175%;
+}
+
+.video-details{
+    display: flex;
+    justify-content: space-between;
+}
+
+.video-options{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 50px;
+}
+
+.options{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.comment-title{
+    display: flex;
+}
+
+.comment-input{
+    width: 400px;
+}
+
+.user-comment{
+    display: flex;
+    padding-left: 150px;
+    
+}
+
+.add-comment{
+    display: flex;
+    padding-left: 150px;
+    align-items: center;
+    width: 160%;
+    justify-content: space-between;
+}
+
+.reply{
+    display: flex;
+}
+
+.interaction{
+    margin-right: 15px;
+    font-size: small;
+}
+
+.comment-eclipse{
+    align-self: flex-end;
+}
+
+.comment-sort{
+    margin-right: 10px;
+}
+
+.comment-title{
+    padding-left: 150px;
+}
+
+.subscribe-button{
+    background-color: crimson;
+    color: #FAF9F6;
+    border-style: none;
+    width: 120px;
+    height: 45px;
+
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.middle-description{
+    padding-left: 25px;
+}
+
+.thumbnail{
+    width: 135px;
+    height: 100px;
+}
+
+.category{
+    height: 30px;
+}
+
+.selected{
+    height: 30px;
+    background-color: black;
+    color: #FAF9F6;
+}
+
+.thumbnail-text{
+    font-size: 14px;
+}
